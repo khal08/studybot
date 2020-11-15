@@ -1,3 +1,4 @@
 # studybot
 
-Welcome to study bot
+##Welcome to study bot
+
