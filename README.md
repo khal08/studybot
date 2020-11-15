@@ -22,3 +22,9 @@ With StudyBot, call the command ***!study*** and you will be prompted with your 
 Following this, a StudyBot will send a dynamic timer, accomodating your requested study durations.
 
 It will keep a countdown timer, with how much of your total study time is available, and alert you when it's time for a break. Once break starts, the break timer will also start and you will be alerted when it's time to go back to studying.
+
+
+
+## Future for StudyBot
+
+Keep on the lookout, a music playing feature may be coming shortly!
