@@ -14,6 +14,7 @@ We've implemented the famous and trusted **Pomodoro Technique** in the form of a
 Pomodoro allows you to focus on a designated task by breaking up the amount of studying time you have, and rewarding your work with small breaks as you work.
 
 With StudyBot, call the command ***!study*** and you will be prompted with your study session:
-    1. How long is your desired study duration?
+    
+   ** 1. How long is your desired study duration? **
     2. How long would you like your breaks to be?
     3. How many break sessions would you like through out your studying?
